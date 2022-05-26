@@ -8,7 +8,7 @@ package exercise1;
  * This code is to be used in exercise 1. When you create your own branch,
  * add your name as an author.
  * @author dancye
- * @author Paul Bonenfant May 2022
+ * @author Ana Patel 26th May 2022
  */
 public class Card {
 
